@@ -1,10 +1,12 @@
 # donate here 
 
-Gopay : 082195663814
+Gopay/Dana : 082195663814
 
-Doge  : DJPaNv7dgfYWum9RY5RvFjVGZNPgzSTgKg
+Doge  : DM3FsXDMFyLxWLajAx71teqCEearXHaSEK
 
-Ltc   : MCeTxyx5z28MQ7m8omhPhTbRsURHF251aZ
+Ltc   : ltc1qwqndldezpjkhq0fgz5732dp2relklg63p8usgn
+
+Paypal : paypalrayez@gmail.com / @rayez16
 
 Thank's you a lot ❤️
 
