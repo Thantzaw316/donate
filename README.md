@@ -2,9 +2,9 @@
 
 Gopay/Dana : 082195663814
 
-Doge  : DM3FsXDMFyLxWLajAx71teqCEearXHaSEK
+Doge  : DQKD2ARdrtiBWNDC4epg3ur1s56wAYM86o
 
-Ltc   : ltc1qwqndldezpjkhq0fgz5732dp2relklg63p8usgn
+Ltc   : ltc1qm20nfuz4pshc2j3qwfhcl7ptcyy4s0xmw0dxr5
 
 Paypal : paypalrayez@gmail.com / @rayez16
 
